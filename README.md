@@ -9,7 +9,7 @@ A game for testing short-term memory skill.
 
 ---
 
-##Instructions 
+## Instructions 
 - Press any key to start
 - Remember the pattern and then click in the same way.
 
