@@ -4,12 +4,12 @@ A game for testing short-term memory skill.
 ---
 
 <p align="center">
-<img src="images/simon.png>
+<img src="images/simon.png">
 </p>
 
 ---
 
-##Instruction 
+##Instructions 
 - Press any key to start
 - Remember the pattern and then click in the same way.
 
