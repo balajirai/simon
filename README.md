@@ -10,7 +10,7 @@ A game for testing short-term memory skill.
 ---
 
 ## Instructions 
-- Press any key to start
+- Press any key to start (for mobile users touch anywhere to start)
 - Remember the pattern and then click in the same way.
 
 --- 
